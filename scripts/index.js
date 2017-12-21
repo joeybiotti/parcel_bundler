@@ -1,6 +1,6 @@
 // const jokes = require('./jokes');
 
-import { jokes } from './jokes';
+import { jokes } from './scripts/jokes';
 import $ from 'jquery';
 import fs from 'fs';
 
